@@ -22,17 +22,12 @@ Write JavaScript code that analyzes the records to calculate each of the followi
 
 When open the code in the browser the resulting analysis should look similar to the following:
 
- 
-  Financial Analysis
-  ----------------------------
-  Total Months: 25
-  Total: $2561231
-  Average  Change: $-2315.12
-  Greatest Increase in Profits: Feb-2012 ($1926159)
-  Greatest Decrease in Profits: Sep-2013 ($-2196167)
-  ```
+![image](https://user-images.githubusercontent.com/61995940/201551708-1ad842c5-d582-4641-a0b7-1523f2439b6a.png)
+
+
 
 The final code should print the analysis to the console.
+
 
 ## Licence
 MIT
