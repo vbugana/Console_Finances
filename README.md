@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this challenge,I am using concepts I have learned during week 4 of the bootcamp, adding some research and personal study int order to complete the required activity. This activity presents a real-world situation in which my newfound JavaScript skills will come in handy. The code is meant to analyzing the financial records of a company. The financial dataset has been provided
+This activity presents a real-world situation in which JavaScript skills will come in handy. The code is meant to analyze the financial records of a company. The financial dataset has been provided.
 
 ## Instructions
 
