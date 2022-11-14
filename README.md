@@ -29,5 +29,5 @@ When open the code in the browser the resulting analysis should look similar to 
 The final code should print the analysis to the console.
 
 
-## Licence
+## License
 MIT
